@@ -1,6 +1,7 @@
 <?php
 
 /**
+
 * funcio fer_pi
 *@param $n es una dada
 *@return torna num pi
@@ -17,6 +18,20 @@ function programador1($n) {
         $signe = $multiplicador * $signe;
     }
     $pi = 4 * $result;
+    
+/**
+*@param $n pasa una dada
+*@return numero pi
+*/
+
+function programador2($n) {
+    $result = 1;
+
+    for ($i=3;$i<$n;$i=$i+2) {
+        $result = $result * $i * $i / (($i - 1) * ($i + 1));
+    }
+    $pi = 4 / $result;
+>>>>>>> programador2
 
     return $pi;
 }

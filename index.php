@@ -1,6 +1,9 @@
 <?php
 
-include  "funcions.php";
+
+include "funcions.php";
+
+
 
 ?>
 <!doctype html>
@@ -34,6 +37,7 @@ include  "funcions.php";
             </div>
         </div>
 
+<<<<<<< HEAD
         <div class="row">
             <div class="col">
                 <table class="table">
@@ -48,7 +52,7 @@ include  "funcions.php";
                     <tr>
                         <td><?=$i;?></td>
                         <td><?=programador1($i*1000);?></td>
-                        <td></td>
+                        <td><?=programador2($i*1000);?></td>
                     </tr>
                     <?php } ?>
                 </table>
