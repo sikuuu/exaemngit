@@ -29,7 +29,32 @@
             </div>
         </div>
 
-        
+        <div class="row">
+            <div class="col">
+                <table class="table">
+                    <tr>
+                        <th>Iteració</th>
+                        <th>Programador 1</th>
+                        <th>Programador 2</th>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>Resultat 1</td>
+                        <td>Resultat 1</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>Resultat 2</td>
+                        <td>Resultat 2</td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>Resultat 3</td>
+                        <td>Resultat 3</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
 
     </div>
     
