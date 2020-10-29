@@ -1,3 +1,9 @@
+<?php
+
+include "funcions.php";
+
+
+?>
 <!doctype html>
 <html lang="en">
   <head>
@@ -28,6 +34,18 @@
                 tota la comunitat pugui saber qui tenia raó.</p>
             </div>
         </div>
+
+        <table>
+            <?php for ($i=1;$i<=20;$i++) {
+                ?>
+            
+            <tr>
+                <td><?=$i;?></td>
+                <td><?=programador2($i*1000);?></td>
+                <td></td>
+            </tr>
+            <?php } ?>
+        </table>
 
         
 
