@@ -1,5 +1,10 @@
 <?php
 
+/**
+*@param $n pasa una dada
+*@return numero pi
+*/
+
 function programador2($n) {
     $result = 1;
 
