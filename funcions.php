@@ -1,5 +1,12 @@
 <?php
 
+/**
+* funcio fer_pi
+*@param $n es una dada
+*@return torna num pi
+*/
+
+
 function programador1($n) {
     $result = 1;
     $multiplicador = -1;
