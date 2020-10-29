@@ -17,14 +17,14 @@
         <div class="jumbotron jumbotron-fluid">
             <div class="container">
                 <h1>Examen M08 - UF4</h1>
-                <p class="lead">Dos programadors estan discutin 
-                quina és la millor manera de calcular el numero π. 
-                Per demostrar quin és el millor algorisme han decidit 
-                col·laborar en aquest repositiori.</p>
+                <p class="lead">Dos programadors estan discutint
+                quina és la millor manera de calcular el numero π.
+                Per demostrar quin és el millor algorisme han decidit
+                col·laborar en aquest repositori.</p>
                 <hr class="my-4">
-                <p>Cada un ha creat una branca a partir de master i 
-                ha implmentat el seu algorisme, ara falta un expert en Git que 
-                integri tots els canvis i publiqui el repositori a Github per a què 
+                <p>Cada un ha creat una branca a partir de master i
+                ha implementat el seu algorisme, ara falta un expert en Git que
+                integri tots els canvis i publiqui el repositori a Github perquè
                 tota la comunitat pugui saber qui tenia raó.</p>
             </div>
         </div>
